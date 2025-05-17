@@ -1,2 +1,0 @@
-if not exist "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\CoordinateViewer" mkdir "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\CoordinateViewer"
-del /q "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\CoordinateViewer\CoordinateViewer.dll"
