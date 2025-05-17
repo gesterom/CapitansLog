@@ -1,0 +1,1 @@
+xcopy /y CoordinateViewer.dll "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\CoordinateViewer"
